@@ -1,0 +1,6 @@
+body {
+	background-color : #374252
+}
+table.dataTable tr.selected td, table.dataTable td.selected {
+	background-color: #d8b0d9 !important
+}
